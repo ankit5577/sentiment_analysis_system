@@ -1,2 +1,2 @@
-# sentiment_analysis_natural_language_processing_python
+# sentiment_analysis_system
 it is a simple Natural Language Processing project in python.
